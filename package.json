@@ -1,0 +1,30 @@
+{
+  "name": "sequelize-rabbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schafer14/sequelize-rabbit.git"
+  },
+  "keywords": [
+    "Rabbit",
+    "MQ",
+    "Sequelize"
+  ],
+  "author": "Banner B. Schafer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schafer14/sequelize-rabbit/issues"
+  },
+  "homepage": "https://github.com/schafer14/sequelize-rabbit#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {}
+}
